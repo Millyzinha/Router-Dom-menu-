@@ -1,0 +1,13 @@
+.container {
+    flex: 1;
+    flex-direction: column;
+    margin: auto;
+    width: 85rem;
+}
+
+.container h2 {
+    color: rgb(255, 169, 9);
+    font-family: Cambria;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid rgb(255, 169, 9);
+}
